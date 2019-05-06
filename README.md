@@ -1,2 +1,5 @@
-# leetcode-by-java
-Leetcode problem solutions with java https://leetcode.com/problemset/all/
+# Leetcode solutions with java
+
+| # | Title | Solution | Difficulty | Importantly |
+|--- | --- | ---| --- | --- |
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Java](algorithms/001.twoSum.java) | Easy |
